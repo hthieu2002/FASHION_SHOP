@@ -1,0 +1,11 @@
+admin: 
+tài khoản : admin
+mật khẩu : 12345
+
+staff:
+tài khoản : trunghieu
+mật khẩu : 12345
+
+user:
+tài khoản: tuannguyen
+mật khẩu: tuan12345
